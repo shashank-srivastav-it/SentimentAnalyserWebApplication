@@ -1,2 +1,2 @@
 # SentimentAnalyserWebApplication
-Text Analyser
+Text Analyser Web Application
